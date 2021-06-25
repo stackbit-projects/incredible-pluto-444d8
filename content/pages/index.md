@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Cherie.'
+    title: "\U0001F44B Hi, I'm Cherie."
     content: >
       An experienced business developer and client engagement manager, with a
       track record of leading technical presentations and building tech
