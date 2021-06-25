@@ -25,7 +25,7 @@ sections:
         options:
           - Collaboration / Partnerships / Sponsorships
           - 'Advice / Mentorship '
-          - Other
+          - areneG
       - input_type: textarea
         name: message
         label: Message
