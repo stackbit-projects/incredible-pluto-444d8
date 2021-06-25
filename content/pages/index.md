@@ -12,10 +12,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >
-      Throughout my career, I've rotated through various roles and worn multiple
-      hats: consulting, tech, business. I like creating content that revolves
-      around building rewarding careers. 
+    content: "\U0001F44B  \n\n\n\nHi, I'm Sarah.\_\n\n\n\nBuilding startups and teams, currently based in \U0001F4CD[Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) via [San Francisco](https://en.wikipedia.org/wiki/San_Francisco), [New York City](http://en.wikipedia.org/wiki/New_York_City), [London](https://en.wikipedia.org/wiki/London),\_and [Chicago](http://en.wikipedia.org/wiki/Chicago). Alumna of [Columbia University](http://en.wikipedia.org/wiki/Columbia_University)\_and [Oxford University](http://en.wikipedia.org/wiki/University_of_Oxford).\n\nIntrigued by design, traveling, photography, classical music, strategy, writing, art, armchair philosophy, fabulous food, and even better conversations.\n\nSeeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me.\n\nSay hi on Twitter [@sarahlichang](http://twitter.com/sarahlichang)\_\n"
     actions:
       - label: Contact Me
         url: /contact
