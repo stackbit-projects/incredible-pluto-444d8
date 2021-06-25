@@ -14,15 +14,12 @@ sections:
     title: About
     content: >
       I'm intrigued by drug discovery, nutritional sciences, fabulous food, and
-      even better conversations. 
+      even better conversations.
 
 
       Seeking to be inspired, to envision the unlikely, to work hard for things
       that are worth it, and to be surrounded by those who bring out the best in
       me.
-
-
-      Say hi on LinkedIn.
     actions:
       - label: Contact Me
         url: /contact
