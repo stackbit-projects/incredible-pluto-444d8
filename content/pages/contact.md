@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Collaboration / Partnerships / Sponsorships
-          - null
+          - 'Advice / Mentorship '
           - Other
       - input_type: textarea
         name: message
