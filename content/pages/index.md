@@ -21,7 +21,7 @@ sections:
       that are worth it, and to be surrounded by those who bring out the best in
       me.
     actions:
-      - label: Contact Me
+      - label: Connect in LinkedIn
         url: /contact
         style: button
   - section_id: recent-posts
