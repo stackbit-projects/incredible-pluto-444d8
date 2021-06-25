@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Cherie.'
     content: |
-      I'm a two-time founder and Quantic MBA candidate 2021.
+      I'm a two-time founder and Quantic MBA candidate 2021. 
   - section_id: about
     type: section_content
     title: About
