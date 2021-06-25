@@ -8,7 +8,7 @@ sections:
     content: >
       An experienced business developer and client engagement manager, with a
       track record of leading technical presentations and building tech
-      products. A two-time founder, and Quantic MBA candidate (2021). 
+      products. Also head of Pluto Academy, and Quantic MBA candidate (2021).
   - section_id: about
     type: section_content
     title: About
