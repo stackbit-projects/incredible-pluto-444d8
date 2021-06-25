@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: My Story
 img_path: /images/Cherie Tan.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
