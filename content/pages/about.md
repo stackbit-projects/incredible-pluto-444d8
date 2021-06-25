@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: My Story
-img_path: /images/Cherie Tan.jpg
+img_path: /images/Cherie Tan.PNG
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
