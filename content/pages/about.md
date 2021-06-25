@@ -31,14 +31,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Cherie Tan** is Chief Operating Officer at Pluto Academy, Singapore. She was a self-taught website designer and developer who sold her first website design services 
+I’m currently involved in driving digital excellence in in the banking sector with Syncordis, a global, pure-play Temenos (core banking) services partner and service provider of regulated BaaS solutions and managed services. I also run an enrichment academy for kids in Singapore at [Pluto Academy](www.pluto.academy).
 
-Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I love building companies, teams, and ideas. As a startup operator, what matters to me most is creating an engaging and fun learning journey, and empower children to do their best work and be their best selves. My professional interests include strategy & operations, media technology, design thinking, and emerging technologies. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+I’ve been lucky to lead a software development firm in Singapore from 2015 to 2019 — doing everything from Chief of Staff, Operations, Project Management, Marketing, and Business Development. Publications about me have appeared on [HuffPost](https://www.huffpost.com/entry/99-limit-breaking-female-founders-share-the-most_b\_5a580ad6e4b00b4ea8d08345), [Reader's Digest](https://www.rd.com/list/millennial-entrepreneurs/), [Women2.0](https://women2.com/2017/09/29/how-i-went-from-being-a-14-year-old-freelancer-to-a-tech-consulting-ceo/), [Thrive Global](https://thriveglobal.com/stories/female-disruptors-cherie-tan-is-helping-people-find-their-pathway-to-success/), and [BeamStart](https://beamstart.com/content/8202/Turning_her_Passion_for_Design_and_Programming_into_a_Profitable_Venture).
