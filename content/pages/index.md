@@ -5,8 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Cherie.'
-    content: |
-      I'm a two-time founder and Quantic MBA candidate 2021. 
+    content: "An experienced business developer and client engagement manager, with a track record of leading technical presentations and building tech products. A two-time founder, and Quantic MBA candidate (2021). \U0001F44B come say hi.\n"
   - section_id: about
     type: section_content
     title: About
