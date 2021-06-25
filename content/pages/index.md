@@ -22,7 +22,7 @@ sections:
       me.
     actions:
       - label: Connect in LinkedIn
-        url: /contact
+        url: 'https://www.linkedin.com/in/cherietanjy'
         style: button
   - section_id: recent-posts
     type: section_posts
