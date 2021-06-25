@@ -23,7 +23,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Collaboration / Career Opportunities
+          - Collaboration / Partnerships / Sponsorships
           - null
           - Other
       - input_type: textarea
