@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Collaboration / Career Opportunities
-          - Sponsorship
+          - null
           - Other
       - input_type: textarea
         name: message
