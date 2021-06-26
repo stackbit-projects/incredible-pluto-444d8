@@ -40,71 +40,16 @@ layout: page
 
 Coming soon.
 
-# This is an H1
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
-## This is an H2
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-### This is an H3
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-#### This is an H4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
-
-## Quoting
-
-> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-<hr />
-
-## Unordered Lists
-
-*   Donec non tortor in arcu mollis feugiat
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-*   Donec id eros eget quam aliquam gravida
-*   Vivamus convallis urna id felis
-*   Nulla porta tempus sapien
-
-## Ordered Lists
-
-1.  Donec non tortor in arcu mollis feugiat
-2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3.  Donec id eros eget quam aliquam gravida
-4.  Vivamus convallis urna id felis
-5.  Nulla porta tempus sapien
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-    <!-- Some example CSS code -->
-    body {
-      color: #333;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.5;
-    }
-
-## Video Embeds
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Tables
+## Table of Content
 
 <div class="responsive-table">
   <table>
-    <caption>Simple table with caption and header</caption>
+    <caption>Topics</caption>
     <thead>
       <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
+        <th>Chapter</th>
+        <th>Topics</th>
+        <th>Learning Outcomes</th>
       </tr>
     </thead>
     <tbody>
