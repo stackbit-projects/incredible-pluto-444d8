@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: "\U0001F44B Hi, I'm Cherie."
     content: >
-      An experienced business developer and client engagement manager, with a
-      track record of leading technical presentations and building tech
-      products. Also head of Pluto Academy, and Quantic MBA candidate (2021).
+      COO of[ Pluto Academy](www.pluto.academy), and Quantic MBA candidate
+      (2021).
   - section_id: about
     type: section_content
     title: About
