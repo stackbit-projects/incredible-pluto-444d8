@@ -14,11 +14,8 @@ sections:
     content: >
       An experienced business developer and client engagement manager, with a
       track record of leading technical presentations and building tech
-      products. 
-
-
-      I'm intrigued by drug discovery, nutritional sciences, fabulous food, and
-      even better conversations.
+      products. I'm intrigued by drug discovery, nutritional sciences, fabulous
+      food, and even better conversations.
 
 
       Seeking to be inspired, to envision the unlikely, to work hard for things
