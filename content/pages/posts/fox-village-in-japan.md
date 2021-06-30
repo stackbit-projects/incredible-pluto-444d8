@@ -46,17 +46,14 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Ah, sales.
 
-Photo by [Katerina Bartosova.](https://unsplash.com/photos/SAfJ1eTBeyk)
+The one word that most people hate. It reminds me of persistent sales people trying to make a quick buck by selling me some new financial product, or a new cooking pot. They're quick, convincing, assertive, and influential. Five minutes into their hypnotic speech, and you come home with a new item and a couple hundred dollars less. 
 
-**Fox Village** in hac habitasse platea dictumst. Nullam vehicula justo in libero fermentum, sed tincidunt mi ultrices. Nulla id nunc a ipsum faucibus feugiat ac eu dui. Cras sollicitudin viverra justo, ut aliquet nisl vestibulum eu. In hac habitasse platea dictumst. Quisque sit amet mollis enim. Nulla facilisi. Maecenas sed facilisis metus, volutpat maximus lacus. Duis magna odio, congue dictum nulla id, elementum hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+What's so great about sales? And why should you consider pivoting into sales?
 
->The fox never found a better messenger than himself.
+You might be in a situation in life right now where your job is paying well enough for you to thrive, but it no longer gives you the fullest sense of satisfaction and achievement. Something feels missing, and your friends who've titles like Business Development, Account Manager, and Client Engagement Manager suddenly seem much more engaged in their work lives than you have ever remembered. How is it that they were able to sustain the energy, the drive and the excitement?
 
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis ege
+Let me tell you their secret: sales is the lifeblood of their careers.
 
->The fox changes his fur but not his habits.
-
-Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis ege.
-
-In hac habitasse platea dictumst. Nullam vehicula justo in libero fermentum, sed tincidunt mi ultrices. Nulla id nunc a ipsum faucibus feugiat ac eu dui. Cras sollicitudin viverra justo, ut aliquet nisl vestibulum eu. In hac habitasse platea dictumst. Quisque sit amet mollis enim. Nulla facilisi. Maecenas sed facilisis metus, volutpat maximus lacus. Duis magna odio, congue dictum nulla id, elementum hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+They may not be called "salesmen", but each one of their roles embodies the core essence of sales itself. In fact, sales is the very core of so many other career options out in the market: consulting, 
