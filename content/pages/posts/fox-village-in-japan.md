@@ -1,8 +1,8 @@
 ---
 title: Top Ten Courses For A Career Pivot Into Sales
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+  Thinking of pivoting your career path? Check out these top five courses for a
+  career path pivot into sales!
 excerpt: >-
   Miyagi Zao Fox Village, aka Kitsune Mura, is a popular tourist attraction
   situated in Shiroishi, Miyagi it based in the Miyagi Zao mountains. Visitors
