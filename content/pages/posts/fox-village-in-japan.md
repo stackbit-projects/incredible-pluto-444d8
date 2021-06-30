@@ -1,5 +1,5 @@
 ---
-title: Top Ten Courses For A Career Pivot Into Sales
+title: Top Five Courses For A Career Pivot Into Sales
 subtitle: >-
   Thinking of pivoting your career path? Check out these top five courses for a
   career path pivot into sales!
